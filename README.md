@@ -13,9 +13,9 @@ This project offers a simple data visualization tool for exploring and analyzing
 
 ## Technologies Used
 
-- **Pandas:** For data manipulation and preprocessing.
-- **Plotly Express:** Creating interactive visualizations.
-- **Dash:** Building interactive web-based dashboards.
+- **Pandas 2.0.3:** For data manipulation and preprocessing.
+- **Plotly Express 5.9.0:** Creating interactive visualizations.
+- **Dash 2.14.1:** Building interactive web-based dashboards.
 
 
 
